@@ -1,6 +1,7 @@
 # 7-Type Classification GeoProj - Part of the Deep-Learning Model for Mirror Detection FYP
 
 ### [Paper of the Original Project](https://arxiv.org/abs/1909.03459)
+### [Original Repository](https://github.com/xiaoyu258/GeoProj)
 
 The source code of 7-Type Classification GeoNet of Deep-Learning Model for Mirror Detection FYP (2025). 
 The ClassNet has been modified for adding a new 'None' Type for identifying distorted and non-distorted images.
